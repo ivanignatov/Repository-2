@@ -3,7 +3,7 @@
  */
 
 
-
+// Lets' comment some lines in order to test Git
 package javaSyntaxix;
 import java.util.Scanner;
 public class Problem1RectangleArea {
